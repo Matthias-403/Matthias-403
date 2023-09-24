@@ -1,19 +1,12 @@
 <h1 align="center">Hello there, I'm Matthias</h1>
 <h3 align="center">i think applying hard solutions to easy problems, is the best way to learn</h3>
 
-- 🔭 I’m currently working on **mosquito-counter**
-
 - 🌱 I’m currently learning **Go, Lua, and PyTorch**
-
-- 👯 I’m looking to collaborate on **vim or nvim projects**
-
-- 📝 I regularly write articles on [https://medium.com/@github.matthias403](https://medium.com/@github.matthias403)
 
 - 💬 Ask me about **Python, LaTeX, Linux, Split mech-keys or 90's Hondas**
 
 - 📫 How to reach me **github.matthias403@gmail.com**
 
-- ⚡ Fun fact **Avocados are a fruit, if you disagree email me**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
